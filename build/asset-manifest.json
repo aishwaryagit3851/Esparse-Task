@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Esparse-Task/static/css/main.1e67a010.css",
+    "main.js": "/Esparse-Task/static/js/main.34b6a87d.js",
+    "static/js/787.684c7304.chunk.js": "/Esparse-Task/static/js/787.684c7304.chunk.js",
+    "static/media/image1.jpg": "/Esparse-Task/static/media/image1.9c8eec0c6c8f0a67c8c3.jpg",
+    "static/media/image20.jpg": "/Esparse-Task/static/media/image20.eb4f68cd47228430fa13.jpg",
+    "static/media/image14.jpg": "/Esparse-Task/static/media/image14.6d24d60e40218be27017.jpg",
+    "static/media/image10.png": "/Esparse-Task/static/media/image10.780b71d47ee3fabe6f2b.png",
+    "static/media/image6.jpg": "/Esparse-Task/static/media/image6.b1eebd8cf59c8366f5e6.jpg",
+    "static/media/image17.jpg": "/Esparse-Task/static/media/image17.192169a3e16e68671fe4.jpg",
+    "static/media/image16.jpg": "/Esparse-Task/static/media/image16.f2bef5b2112e37d13012.jpg",
+    "static/media/image19.jpg": "/Esparse-Task/static/media/image19.c40014cc39ef7dd82d9d.jpg",
+    "static/media/image8.jpg": "/Esparse-Task/static/media/image8.9b6361ad6b848dcc1fc8.jpg",
+    "static/media/image9.jpg": "/Esparse-Task/static/media/image9.b8c6a03b542b8b2ff61d.jpg",
+    "static/media/image5.jpg": "/Esparse-Task/static/media/image5.463d93b1044406534c02.jpg",
+    "static/media/image15.jpg": "/Esparse-Task/static/media/image15.e1c5bed3177119911c8e.jpg",
+    "static/media/image18.jpg": "/Esparse-Task/static/media/image18.2d29305bf14739a560ce.jpg",
+    "static/media/image3.jpg": "/Esparse-Task/static/media/image3.bca4baf535d7e8abbe74.jpg",
+    "static/media/image12.jpg": "/Esparse-Task/static/media/image12.63123bcb046b2c3de701.jpg",
+    "static/media/image2.jpg": "/Esparse-Task/static/media/image2.1024f40e6f86c6e1d556.jpg",
+    "static/media/image7.jpg": "/Esparse-Task/static/media/image7.1637955797105fd1575d.jpg",
+    "static/media/image4.jpg": "/Esparse-Task/static/media/image4.e9cd7bb457340a50191f.jpg",
+    "static/media/image11.jpg": "/Esparse-Task/static/media/image11.9f2cab965d238cc8c859.jpg",
+    "static/media/image13.jpg": "/Esparse-Task/static/media/image13.f8b22c338a91265db8df.jpg",
+    "index.html": "/Esparse-Task/index.html",
+    "static/media/user-solid.svg": "/Esparse-Task/static/media/user-solid.9b62643f9d2afab17a6fdb52b7468d36.svg",
+    "main.1e67a010.css.map": "/Esparse-Task/static/css/main.1e67a010.css.map",
+    "main.34b6a87d.js.map": "/Esparse-Task/static/js/main.34b6a87d.js.map",
+    "787.684c7304.chunk.js.map": "/Esparse-Task/static/js/787.684c7304.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e67a010.css",
+    "static/js/main.34b6a87d.js"
+  ]
+}
